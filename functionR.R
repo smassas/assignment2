@@ -1,4 +1,4 @@
-## Matrix functions (special and inverse)
+## Cache matrix functions (special and inverse)
 
 ## special matrix object that can cache its inverse
 makeCacheMatrix <- function( m = matrix() ) {
